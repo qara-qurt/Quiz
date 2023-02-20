@@ -1,0 +1,10 @@
+Question : 5+5 , yourAnswer : 10 , correctAnswer : 10 , isCorrect true
+Question : 2+7 , yourAnswer : 9 , correctAnswer : 9 , isCorrect true
+Question : 5*5 , yourAnswer : 25 , correctAnswer : 25 , isCorrect true
+Question : 6*6 , yourAnswer : 36 , correctAnswer : 36 , isCorrect true
+Question : 8-8 , yourAnswer : 0 , correctAnswer : 0 , isCorrect true
+Question : 15-14 , yourAnswer : 1 , correctAnswer : 1 , isCorrect true
+Question : 9+9 , yourAnswer : 81 , correctAnswer : 18 , isCorrect false
+Question : 7+7 , yourAnswer : 14 , correctAnswer : 14 , isCorrect true
+Question : 8*8 , yourAnswer : 64 , correctAnswer : 64 , isCorrect true
+Question : 0+0 , yourAnswer : 0' , correctAnswer : 0 , isCorrect false
